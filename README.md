@@ -1,6 +1,6 @@
 ### Olá, sou o Felipe de Oliveira Teixeira👋
 
-- 🌱 Atualmente estou: trabalhando com projetos freelancer para Front-end e realizando  curso da Alura
+- 🌱 Atualmente estou: trabalhando com projetos freelancer Front-end e realizando  curso da Alura.
 - 📫 Contatos: e-mail: fteix94@gmail.com
 -               cell: +55(31)99597-5393
 

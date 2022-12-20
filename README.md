@@ -1,14 +1,14 @@
 ### <h1>Welcome to my profile! 👋</h1>
 
-
-• My name is Felipe de Oliveira Teixeira
-• I'm 28 years old
-• Brazilian
-• Currently working at Virtual Auto Peças
-• Front-End Developer (HTML, CSS, JS, React).
-• e-mail: fteix94@gmail.com
-• cell/Whatsapp: +55(31)99597-5393
-
+<ul>
+  <li>• My name is Felipe de Oliveira Teixeira</li>
+  <li>• I'm 28 years old</li>
+  <li>• Brazilian</li>
+  <li>• Currently working at Virtual Auto Peças</li>
+  <li>• Front-End Developer (HTML, CSS, JS, React)</li>
+  <li>• e-mail: fteix94@gmail.com</li>
+  <li>• cell/Whatsapp: +55(31)99597-5393</li>
+</ul>
 
 <div align="center">
   <a href="https://github.com/FelpsOliverTeix/">

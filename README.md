@@ -1,8 +1,13 @@
-### Olá, sou o Felipe de Oliveira Teixeira👋
+### <h1>Welcome to my profile! 👋</h1>
 
-- 🌱 Atualmente estou: trabalhando com projetos freelancer Front-end e realizando  curso da Alura.
-- 📫 Contatos: e-mail: fteix94@gmail.com
--               cell: +55(31)99597-5393
+
+• My name is Felipe de Oliveira Teixeira
+• I'm 28 years old
+• Brazilian
+• Currently working at Virtual Auto Peças
+• Front-End Developer (HTML, CSS, JS, React).
+• e-mail: fteix94@gmail.com
+• cell/Whatsapp: +55(31)99597-5393
 
 
 <div align="center">

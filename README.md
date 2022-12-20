@@ -10,6 +10,11 @@
   <li>• cell/Whatsapp: +55(31)99597-5393</li>
 </ul>
 
+### <h2>Social: 👋</h2>
+<div>
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?  title=Linkedin&lineCount=1&theme=dracula&align=left&showBorder=true&borderRadius=4.5&fontSize=15&fontWeight=semibold" alt="My Tech Stack" />
+</div>
+
 <div align="center">
   <a href="https://github.com/FelpsOliverTeix/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelpsOliverTeix&show_icons=true&theme=dark&show_icons=true"/>

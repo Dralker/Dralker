@@ -2,10 +2,10 @@
 
 <ul>
   <li>• My name is Felipe de Oliveira Teixeira</li>
-  <li>• I'm 29 years old</li>
+  <li>• I'm 30 years old</li>
   <li>• Brazilian</li>
   <li>• Currently working at Virtual Auto Peças</li>
-  <li>• Front-End Developer (HTML, CSS, JS, React)</li>
+  <li>• Front-End Developer</li>
   <li>• e-mail: fteix94@gmail.com</li>
   <li>• cell/Whatsapp: +55(31)99597-5393</li>
 </ul>
